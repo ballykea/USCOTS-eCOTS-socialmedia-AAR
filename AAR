@@ -1,14 +1,15 @@
 ---
 title: "Social Media Challenge After Action Report"
-event: "USCOTS"
-year: "2017"
-hashtag: "#USCOTS17"
-author: Kay Endriss, Shelli Temple, 
-date: "June 13, 2015"
+author: Kay Endriss, Shelli Temple 
+date: "June 21, 2017"
 output: 
   html_document: 
     theme: cosmo
 ---
+event: "USCOTS"
+year: "2017"
+hashtag: "#USCOTS17"
+
 Pre-conference setup
 
 Social media applications: Twitter, Facebook, Twitter
