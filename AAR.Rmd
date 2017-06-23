@@ -20,13 +20,15 @@ hashtag: #USCOTS17
 Twitter, Facebook, Twitter
 
 ### Awards ### 
-points in CAUSE Rewards Program
+For the social media challenge at USCOTS you can have 10 CAUSE Rewards Points per person entering the challenge (minimum 500, maximum 1000) to give away as prizes. 
+ 
+As examples, if 43 people participate you have 500 points to give out; if 68 people participate you have 680 points to give out; if 127 people participate you have 1000 points to give out.
+
 
 ### Interim Announcement of Leader ### 
 yes
 
 ### Text for announcement/advertising/program ###
-
 Use Twitter, Instagram, or Facebook.
 Share your conference experience and help us accumulate participation data!
  
@@ -55,7 +57,6 @@ Final Data Analysis: Closing Session, Saturday May 20
 ### Results ###
 
 ### Awards ###
-
 * Rick Corp	160
 * Amy Hogan	140
 * Glen Russell	60
