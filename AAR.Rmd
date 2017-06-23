@@ -11,9 +11,10 @@ output:
 ## Show Me the DATA! ##
 ### May 18-20, 2017 ###
 
-hashtag: "#USCOTS17"
-
 ## Pre-conference setup ##
+
+### Hashtag ###
+hashtag: #USCOTS17
 
 ### Social media applications ### 
 Twitter, Facebook, Twitter
@@ -31,7 +32,7 @@ yes
 
 ### Tools used ###
 
-### Commentary ###
+### Comments ###
 
 
 ## Data and analysis ##
@@ -41,8 +42,9 @@ yes
 
 ### Results ###
 
+### Awards ###
 
-### Commentary ###
+### Comments ###
 
 
 ## Before leaving the conference ##
