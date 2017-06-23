@@ -24,6 +24,7 @@ For the social media challenge at USCOTS you can have 10 CAUSE Rewards Points pe
  
 As examples, if 43 people participate you have 500 points to give out; if 68 people participate you have 680 points to give out; if 127 people participate you have 1000 points to give out.
 
+https://www.causeweb.org/cause/rewards
 
 ### Interim Announcement of Leader ### 
 yes
@@ -45,6 +46,9 @@ Final Data Analysis: Closing Session, Saturday May 20
 ## Monitoring during conference ##
 
 ### Tools used ###
+* Google Form https://docs.google.com/forms/d/e/1FAIpQLSekTbV_waPUEQPTw1A5C5ERqGFt6SACJTSnJgVKCmcefQjWVw/viewform
+* 
+* 
 
 ### Comments ###
 
@@ -52,7 +56,9 @@ Final Data Analysis: Closing Session, Saturday May 20
 ## Data and analysis ##
 
 ### Tools used ###
-
+* data from Google Form exported to .csv
+* JMP
+* TweetReach
 
 ### Results ###
 
@@ -60,13 +66,13 @@ Final Data Analysis: Closing Session, Saturday May 20
 * Rick Corp	160
 * Amy Hogan	140
 * Glen Russell	60
-* Nick Horton	60
+* Nicholas Horton	60
 * Nandy Debmalya	40
 * Wendine Bolon	40
 * TOTAL	500
 
 ### Comments ###
-
+His name is Debmalya Nandy, not the way it is listed above. Oops.
 
 ## Before leaving the conference ##
 * Create a Storify archive of the hashtag. 
