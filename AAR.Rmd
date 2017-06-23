@@ -1,0 +1,8 @@
+---
+title: "Social Media Challenge After Action Report"
+author: Kay Endriss, Shelli Temple
+date: "June 27, 2017"
+output: 
+  html_document: 
+    theme: cosmo
+---
