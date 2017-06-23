@@ -11,12 +11,12 @@ output:
 ## Show Me the DATA! May 18-20, 2017 ##
 
 
-## Pre-conference setup ##
+## Pre-conference Setup ##
 
 ### Hashtag ###
 hashtag: #USCOTS17
 
-### Social media applications ### 
+### Social Media Applications ### 
 Twitter, Facebook, Twitter
 
 ### Awards ### 
@@ -29,7 +29,7 @@ https://www.causeweb.org/cause/rewards
 ### Interim Announcement of Leader ### 
 yes
 
-### Text for announcement/advertising/program ###
+### Text for Announcement/Advertising/Program ###
 Use Twitter, Instagram, or Facebook.
 Share your conference experience and help us accumulate participation data!
  
@@ -43,9 +43,9 @@ Kickoff: Opening Session, Thursday May 18
 Interim Data Look: 4:30 pm Friday May 19--results announced at Banquet
 Final Data Analysis: Closing Session, Saturday May 20
 
-## Monitoring during conference ##
+## Monitoring During Conference ##
 
-### Tools used ###
+### Tools Used ###
 * Google Form https://docs.google.com/forms/d/e/1FAIpQLSekTbV_waPUEQPTw1A5C5ERqGFt6SACJTSnJgVKCmcefQjWVw/viewform
 * 
 * 
@@ -53,13 +53,17 @@ Final Data Analysis: Closing Session, Saturday May 20
 ### Comments ###
 * Kay writes on May 19: Either didn't have enough sleep last night or caffeine this morning - so I bet I entered some bad dates & times when I started this morning. Any dates you see in now with morning times from yesterday were actually today. And anything entered with time of 9:00AM is likely more between 8:30AM and 9:00AM. Oops, but not really a problem.
 * Shelli mentioned on May 19: I had to estimate on times for Facebook and I think some of the people had repeats w/ FB and Twitter crossposting...
+* Shelli on May 19: It's going well so far.  The hardest to monitor is Facebook to be honest.  I also noticed that we have some double entries and of course we are on different time zones, so just something to watch for :)
+* Shelli on May 20: FYI - @RickyCorp retweeted a lot of his that already had the correct hashtag, so I did not put in the duplicates in the interest of fairness :)
 
-## Data and analysis ##
+## Data and Analysis ##
 
-### Tools used ###
+### Tools Used ###
 * data from Google Form exported to .csv
 * JMP
 * TweetReach
+** file 1 
+** file 2
 
 ### Results ###
 
