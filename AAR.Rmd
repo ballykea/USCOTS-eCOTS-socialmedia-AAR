@@ -47,6 +47,6 @@ yes
 
 ## Before leaving the conference ##
 * Create a Storify archive of the hashtag. 
-    ![] (https://storify.com/ekendriss/uscots-2017)
+    ![USCOTS17 Storify] (https://storify.com/ekendriss/uscots-2017)
 
 ## Notes for Next Time ##
