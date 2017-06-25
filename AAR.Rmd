@@ -61,7 +61,7 @@ Final Data Analysis: Closing Session, Saturday May 20
 ### Tools Used ###
 * data from Google Form exported to .csv
 * JMP
-* TweetReach
+* https://tweetreach.com
   + file no.1 
   + file no.2
 
