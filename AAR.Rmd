@@ -14,7 +14,7 @@ output:
 ## Pre-conference Setup ##
 
 ### Hashtag ###
-hashtag: #USCOTS17
+#USCOTS17
 
 ### Social Media Applications ### 
 Twitter, Facebook, Instagram
