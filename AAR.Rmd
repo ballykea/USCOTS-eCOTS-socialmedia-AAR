@@ -75,6 +75,9 @@ Final Data Analysis: Closing Session, Saturday May 20
 * Nandy Debmalya	40
 * Wendine Bolon	40
 * TOTAL	500
+```{r}
+
+```
 
 ### Comments ###
 His name is Debmalya Nandy, not the way it is listed above. Oops.
